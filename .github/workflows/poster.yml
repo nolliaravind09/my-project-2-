@@ -1,7 +1,6 @@
 name: Poster upload check
 on:[push]
-jobs:
- upload-check:
+
  runs-on: ubuntu-latest
  steps:
   - name: Checkout code
