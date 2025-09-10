@@ -1,2 +1,4 @@
 # my-project-2-
-Body fit 
+Body fit
+name: Aravind
+poster: fitness
